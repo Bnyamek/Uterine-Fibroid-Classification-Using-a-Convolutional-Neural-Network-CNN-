@@ -1,8 +1,4 @@
-# Uterine-Fibroid-Classification-Using-a-Convolutional-Neural-Network-CNN-
-
 # Uterine Fibroid Classification Using a Convolutional Neural Network (CNN)
-
-[Link to GitHub Repository: Bridget Nyamekye](#)
 
 This project presents a deep learning approach to classify uterine fibroids from ultrasound images using a Convolutional Neural Network (CNN). The model achieves high accuracy and AUC-ROC, demonstrating the potential of automated fibroid screening in clinical workflows.
 
